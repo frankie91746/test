@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Categories-Main.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Products.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Refinements.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Brands-Main.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Brands-Subcategories.xml</loc>
+  </sitemap>  
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Models-Ink.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Models-Toner.xml</loc>
+  </sitemap>  
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Articles.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>http://img.supermediastore.com/static/file/share/sitemap/Reviews.xml</loc>
+  </sitemap>  
+</sitemapindex>
